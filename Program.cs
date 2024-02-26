@@ -41,7 +41,7 @@ public class Program
        // Console.WriteLine($"Сумма на счете: {account.Sum}");
         account.Take(180);  // пытаемся снять со счета 180
        // Console.WriteLine($"Сумма на счете: {account.Sum}");
-
+       123
         void DisplayMessage(string message) => Console.WriteLine(message);
        
        
